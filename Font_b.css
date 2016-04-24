@@ -1,0 +1,9 @@
+@font-face {
+		font-family: Font_b;
+		font-style: normal;
+		font-weight: normal;
+		src: url("./Font_b.eot");
+		src: url("./Font_b.eot?#iefix") format('embedded-opentype'),
+		url("./Font_b.woff") format('woff'),
+		url("./Font_b.ttf") format('opentype');
+}
